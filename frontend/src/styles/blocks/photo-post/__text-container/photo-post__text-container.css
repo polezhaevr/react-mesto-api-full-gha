@@ -1,0 +1,9 @@
+.photo-post__text-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 25px;
+  padding-left: 21px;
+  padding-bottom: 31px;
+  padding-right: 15px;
+}

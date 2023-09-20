@@ -1,0 +1,14 @@
+.photo-post__btn-like_focus {
+  background-image: url("../../../../images/btn-like-active.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  cursor: pointer;
+  border: 0;
+  width: 22px;
+  height: 19px;
+  background-color: #ffffff;
+}
+
+.photo-post__btn-like_focus:hover {
+  opacity: 1;
+}

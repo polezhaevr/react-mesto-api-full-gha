@@ -1,0 +1,30 @@
+.popup__btn-save-edit {
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #ffffff;
+  width: 100%;
+  min-height: 50px;
+  cursor: pointer;
+  margin-top: 18px;
+  background: #000000;
+  border-radius: 2px;
+  margin-bottom: 37px;
+}
+
+.popup__btn-save-edit:hover {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 560px) {
+  .popup__btn-save-edit {
+    margin-top: 10px;
+    min-height: 46px;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 25px;
+  }
+}

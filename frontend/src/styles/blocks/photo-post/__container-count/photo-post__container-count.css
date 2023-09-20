@@ -1,0 +1,4 @@
+.photo-post__container-count {
+  display: flex;
+  flex-direction: column;
+}

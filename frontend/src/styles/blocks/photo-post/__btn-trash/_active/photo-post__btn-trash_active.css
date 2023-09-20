@@ -1,0 +1,7 @@
+.photo-post__btn-trash_active {
+  opacity: 1;
+}
+
+.photo-post__btn-trash_active:hover {
+  opacity: 0.6;
+}

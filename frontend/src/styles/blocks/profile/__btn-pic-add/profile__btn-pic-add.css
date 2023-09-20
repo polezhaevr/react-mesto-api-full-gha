@@ -1,0 +1,32 @@
+.profile__btn-pic-add {
+  width: 150px;
+  height: 50px;
+  background-color: #000000;
+  border: 2px solid #ffffff;
+  border-radius: 2px;
+  background-image: url("../../../images/btn-pic-add.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  cursor: pointer;
+}
+
+.profile__btn-pic-add:hover {
+  opacity: 0.6;
+}
+
+@media screen and (max-width: 768px) {
+  .profile__btn-pic-add {
+    width: 100%;
+    margin-top: 36px;
+    display: flex;
+    justify-content: center;
+    margin-right: 19px;
+    margin-left: 19px;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .profile__btn-pic-add {
+    background-size: 16px 16px;
+  }
+}

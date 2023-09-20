@@ -1,0 +1,14 @@
+.photo-post__btn-trash {
+  opacity: 0;
+  width: 18px;
+  height: 19.3px;
+  position: absolute;
+  background-image: url("../../../images/btn-trash.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  cursor: pointer;
+  border: 0;
+  top: 25.7px;
+  right: 21.28px;
+  background-color: rgba(0, 0, 0, 0);
+}

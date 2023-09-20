@@ -1,0 +1,11 @@
+.photo-post {
+  max-width: 880px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+@media screen and (max-width: 560px) {
+  .photo-post {
+    padding-top: 36px;
+  }
+}

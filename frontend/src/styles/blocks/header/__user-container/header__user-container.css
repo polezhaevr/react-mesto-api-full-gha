@@ -1,0 +1,11 @@
+.header__user-container {
+  display: flex;
+  padding-left: 24px;
+  align-items: center;
+}
+
+@media screen and (max-width: 560px) {
+  .header__user-container {
+    flex-direction: column;
+  }
+}
