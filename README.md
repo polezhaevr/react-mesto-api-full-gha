@@ -14,3 +14,12 @@ IP-адрес 158.160.21.241
 Frontend https://polezhaevrmesto.nomoredomainsrocks.ru
 
 Backend https://api.polezhaevrmesto.nomoredomainsrocks.ru
+
+## Запуск проекта backend
+`npm run start` — запускает сервер   
+`npm run dev` — запускает сервер с hot-reload
+
+## Запуск проекта backend
+`npm startt` — запускает проект 
+`npm run build` — собирает проект
+
