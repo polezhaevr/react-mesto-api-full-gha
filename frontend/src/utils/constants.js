@@ -1,3 +1,3 @@
-const BASE_URL = "api.polezhaevrmesto.nomoredomainsrocks.ru";
+const BASE_URL = "https://api.polezhaevrmesto.nomoredomainsrocks.ru";
 
 export {BASE_URL}

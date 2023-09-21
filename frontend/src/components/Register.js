@@ -27,7 +27,6 @@ const Register = ({
     auth
       .register(formValue.email, formValue.password)
       .then((res) => {
-        console.log(res);
         handleOpenPopupInfoClick();
         handleRegistrationSuccessClick();
         navigate("/sign-in", { replace: true });

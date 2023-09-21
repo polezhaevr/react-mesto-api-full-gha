@@ -160,7 +160,7 @@ function App() {
           setLoggedIn(true);
           navigate("/main");
         })
-        .catch(console.error);
+        .catch((err) => console.log(err));
     }
   }, [navigate]);
 
