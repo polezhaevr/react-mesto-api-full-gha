@@ -7,19 +7,11 @@
 
 Адрес репозитория: https://github.com/polezhaevr/react-mesto-api-full-gha
 
-## Ссылки на проект
-
-Публичный IP - 158.160.21.241
-
-Frontend https://polezhaevrmesto.nomoredomainsrocks.ru
-
-Backend https://api.polezhaevrmesto.nomoredomainsrocks.ru
-
 ## Запуск проекта backend
 `npm run start` — запускает сервер   
 `npm run dev` — запускает сервер с hot-reload
 
-## Запуск проекта backend
-`npm startt` — запускает проект 
+## Запуск проекта frontend
+`npm start` — запускает проект 
 `npm run build` — собирает проект
 
