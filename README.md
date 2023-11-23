@@ -12,6 +12,6 @@
 `npm run dev` — запускает сервер с hot-reload
 
 ## Запуск проекта frontend
-`npm start` — запускает проект 
+`npm start` — запускает проект   
 `npm run build` — собирает проект
 
